@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">Ticket</string>
+	<string name="btn_text_random">500万!!!</string>
+	<string name="tv_text_null">    </string>
+</resources>
